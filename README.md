@@ -10,6 +10,9 @@ Käytetyt tekniikat:
 - Bootstrap
 - JavaScript
 
+<img src="img/screen1.png">
+<img src="img/screen2.png">
+
 First larger project, that I made myself from start to finish. Made as a school assignment where the idea was to gather all exercises to one page. The links are no longer working.
 
 Used techniques: 
