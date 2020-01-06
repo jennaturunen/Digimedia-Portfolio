@@ -1,5 +1,8 @@
 <h1>Digimedia Portfolio </h1>
 
+Watch site on live:
+<a href="https://jennaturunen.github.io/Digimedia-Portfolio/portfolio.html">Portfolio</a>
+
 Ensimmäinen isompi projekti, joka on alusta loppuun asti tehty itse. Tehty koulutehtävänä, jonka tarkoituksena oli luoda oma portfolio kaikille sen kurssin aikana tehdyille tehtäville. Tehtäviin johtavat linkit eivät enää ole toiminnassa. 
 
 Käytetyt tekniikat:
